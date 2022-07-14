@@ -1,4 +1,4 @@
-* Solution to The Monty Project
+## Solution to The Monty Project
 * 0 - Implement the push and pall opcodes
 * 1 - Implement the pint opcode
 * 2 - Implement the pop opcode
